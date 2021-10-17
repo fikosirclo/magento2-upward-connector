@@ -25,11 +25,5 @@
         "psr-4": {
             "Magento\\UpwardConnector\\": ""
         }
-    },
-    "repositories": {
-        "upward-php": {
-            "type": "git",
-            "url": "https://github.com/fikosirclo/upward-php.git"
-        }
     }
 }
