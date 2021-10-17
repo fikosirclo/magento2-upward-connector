@@ -7,6 +7,7 @@
     "require": {
         "php": "~7.3.0||~7.4.0",
         "magento/framework": "*",
+        "fikosirclo/upward-php": "dev-develop",
         "magento/module-config": "*",
         "magento/module-store": "*",
         "yireo/magento2-disable-service-worker-in-admin": "^0.0.2"
@@ -23,6 +24,12 @@
         ],
         "psr-4": {
             "Magento\\UpwardConnector\\": ""
+        }
+    },
+    "repositories": {
+        "upward-php": {
+            "type": "git",
+            "url": "https://github.com/fikosirclo/upward-php.git"
         }
     }
 }
