@@ -1,5 +1,5 @@
 {
-    "name": "magento/module-upward-connector",
+    "name": "fikosirclo/module-upward-connector",
     "description": "Magento module used for routing all frontend requests through UPWARD-PHP.",
     "config": {
         "sort-packages": true
